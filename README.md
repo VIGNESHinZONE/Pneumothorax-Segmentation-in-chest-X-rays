@@ -4,7 +4,7 @@ Image Segmentation of X-ray images to indentify Pnuemotrax  disease using ResNET
 IUO score - 0.6
 
 # Training 
-run this command on `python main.py`
+run this command `python main.py`
 
 # Results:
 
