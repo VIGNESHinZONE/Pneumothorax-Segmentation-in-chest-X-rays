@@ -17,7 +17,7 @@ from albumentations import (
     HorizontalFlip, IAAPerspective, ShiftScaleRotate, CLAHE, RandomRotate90,
     Transpose, ShiftScaleRotate, Blur, OpticalDistortion, GridDistortion, HueSaturationValue,
     IAAAdditiveGaussianNoise, GaussNoise, MotionBlur, MedianBlur, RandomBrightnessContrast, IAAPiecewiseAffine,
-    IAASharpen, IAAEmboss, Flip, OneOf, Compose,Normalize,RandomContrast,RandomGamma,ElasticTransform,RandomSizedCrop
+    IAASharpen, IAAEmboss, Flip, OneOf, Compose,Normalize,RandomContrast,RandomGamma,ElasticTransform,RandomSizedCrop ,RandomBrightness
 )
 from utils import ToTensor
 
