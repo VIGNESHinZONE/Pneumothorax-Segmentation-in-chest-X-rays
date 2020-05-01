@@ -16,6 +16,7 @@ import glob
 import pandas as pd
 from PIL import Image, ImageFile
 from torch.utils.tensorboard import SummaryWriter
+import torch.optim as optim
 from torch.optim.lr_scheduler import StepLR
 from utils import plot_image,MixedLoss,iou
 
