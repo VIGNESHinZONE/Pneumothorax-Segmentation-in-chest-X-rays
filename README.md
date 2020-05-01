@@ -1,7 +1,8 @@
 # Pneumothorax-Segmentation-in-chest-X-rays
 
 Image Segmentation of X-ray images to indentify Pnuemotrax  disease using ResNET-34 and UNET.
-IUO score - 0.6
+
+IUO score - 0.57
 
 # Training 
 run this command `python main.py`
