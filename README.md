@@ -1,4 +1,4 @@
-# Pnuemothorax-Segmentation-in-chest-X-rays
+# Pneumothorax-Segmentation-in-chest-X-rays
 
 Image Segmentation of X-ray images to indentify Pnuemotrax  disease using ResNET-34 and UNET.
 
